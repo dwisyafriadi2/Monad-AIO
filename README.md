@@ -54,6 +54,6 @@ This project is licensed under the MIT License.
 Made with ❤️ by Jeri Tamvan. If you like this project, don't forget to give it a ⭐ on GitHub!
 
 Join Telegram Channel
-[Telegram Channel](https://t.me/diskusiparapemulung)
+[Telegram Channel](https://t.me/dasarpemulung)
 
 Credits Zaptovcavis
