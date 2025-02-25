@@ -22,7 +22,7 @@ Auto Push Transactions for Monad Testnet
    ```sh
    cd Monad-AIO
    ```
-3. Import your private key into `pk.txt` and your proxy into `proxy.txt`
+3. Import your private key into `wallet.txt` and your proxy into `proxy.txt`
 4. Install dependencies:
    ```sh
    npm install
