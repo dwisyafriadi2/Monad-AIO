@@ -1,7 +1,14 @@
 # Monad-AIO
 Auto Push Transactions for Monad Testnet
 
-![Tampilan Bot](haust.jpg)
+![Tampilan Bot](image.png)
+
+## Main Features
+
+- Automatic Running every 09.00 am
+- Supports multiple swap bots: Izumi, Magma, and Rubic.
+- Allows users to select which bot to execute.
+- Ensures correct gas fee calculation and nonce handling.
 
 ### Setup Instructions
 
@@ -28,22 +35,8 @@ Auto Push Transactions for Monad Testnet
    - Choose **No. 1** for using Izumi Finance.
    - Choose **No. 2** for using Magma Staking.
    - Choose **No. 3** for using Rubic Swap.
-7. Detach the screen session:
-   ```sh
-   Press Ctrl + A, then D
-   ```
-8. Create a new screen session for bridging:
-   ```sh
-   screen -S haustbridge
-   ```
-9. Navigate to the project directory:
-   ```sh
-   cd Haust-V2-AIO
-   ```
-10. Run the bot again:
-    ```sh
-    node run.js
-    ```
+
+7. Enter how much cycle want you to running.
 
 ### Notes
 - Ensure you have a working proxy for the multi account feature.
@@ -64,5 +57,3 @@ Join Telegram Channel
 [Telegram Channel](https://t.me/diskusiparapemulung)
 
 Credits Zaptovcavis
-
-
