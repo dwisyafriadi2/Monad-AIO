@@ -16,7 +16,7 @@ Auto Push Transactions for Monad Testnet
 
 1. Clone Code
    ```sh
-   git clone 
+   git clone https://github.com/jeripangestu/Monad-AIO.git
    ```
 2. Navigate to the project directory:
    ```sh
